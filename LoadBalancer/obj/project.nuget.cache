@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gJnMaeJC+AdZyn1SIcWvN7+dx76Sh4DghuDJ8nje+W9Qb0eoc8zuP8cnZuqkXA+tOKGNH2OiupXcCpLcM9AKvw==",
+  "success": true,
+  "projectFilePath": "C:\\code\\C#\\ResearchSandbox\\LB\\LoadBalancer\\LoadBalancer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rohit Kumar\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.5\\microsoft.extensions.configuration.abstractions.3.1.5.nupkg.sha512",
+    "C:\\Users\\Rohit Kumar\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.5\\microsoft.extensions.primitives.3.1.5.nupkg.sha512",
+    "C:\\Users\\Rohit Kumar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

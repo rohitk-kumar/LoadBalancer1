@@ -1,0 +1,8 @@
+C:\code\C#\ResearchSandbox\LB\AlgorithmLibrary\bin\Debug\netstandard2.0\AlgorithmLibrary.deps.json
+C:\code\C#\ResearchSandbox\LB\AlgorithmLibrary\bin\Debug\netstandard2.0\AlgorithmLibrary.dll
+C:\code\C#\ResearchSandbox\LB\AlgorithmLibrary\obj\Debug\netstandard2.0\AlgorithmLibrary.AssemblyInfoInputs.cache
+C:\code\C#\ResearchSandbox\LB\AlgorithmLibrary\obj\Debug\netstandard2.0\AlgorithmLibrary.AssemblyInfo.cs
+C:\code\C#\ResearchSandbox\LB\AlgorithmLibrary\bin\Debug\netstandard2.0\AlgorithmLibrary.pdb
+C:\code\C#\ResearchSandbox\LB\AlgorithmLibrary\obj\Debug\netstandard2.0\AlgorithmLibrary.csproj.CoreCompileInputs.cache
+C:\code\C#\ResearchSandbox\LB\AlgorithmLibrary\obj\Debug\netstandard2.0\AlgorithmLibrary.dll
+C:\code\C#\ResearchSandbox\LB\AlgorithmLibrary\obj\Debug\netstandard2.0\AlgorithmLibrary.pdb
