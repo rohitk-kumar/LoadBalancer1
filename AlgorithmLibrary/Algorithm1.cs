@@ -13,8 +13,8 @@ namespace AlgorithmLibrary
     {
         private readonly IConfiguration _config;
         private IAlgorithm algorithm;
-        //private List<MerchantAccountList> list;
-        //private List<Func<T, T>> funcList;
+        //public Algorithm1(IConfiguration config, IDataAccess da) dependency --> da class calls the db. Needs to be injected here.
+        //DataAccessLibrary should be accessed via intermediate class which does proper validation before executing the query on the database. 
         public Algorithm1(IConfiguration config)
         {
             this._config = config; //direct db access or API acess. Bad practice to put here probably.          
@@ -33,7 +33,12 @@ namespace AlgorithmLibrary
         /// <returns></returns>
         public IList<T> RunAlgorithm<T>(IList<T> list)
         {
-            throw new NotImplementedException();
+            //todo
+            // function will have access to a data access library model class. which will
+            //take an sql parameter and return some dataset. 
+            //This model class will actually call the db directly and not the algorithm class.
+            List<T> list1 = new List<T>();
+            return list1;
         }
     }
 
